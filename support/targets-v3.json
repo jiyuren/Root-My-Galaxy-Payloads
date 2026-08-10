@@ -77,6 +77,20 @@
       }
     },
     {
+      "payloadId": "e1q-S9210ZCS6DZF2",
+      "displayName": "Galaxy S24 | Kernel 6.1.145",
+      "models": ["SM-S9210"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1q-S9210ZCS6DZF2/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://ds.jamsg.cn/d/Release/JSG-LLC/GalaxyRootKickUP/KSU/ksud-samsung-android14-6.1-kdp",
+        "size": 4879856
+      }
+    },
+    {
       "payloadId": "e2s-S926BXXUEDZDR",
       "displayName": "Galaxy S24+ | Kernel 6.1.157",
       "models": ["SM-S926B"],
